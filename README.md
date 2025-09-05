@@ -1,9 +1,9 @@
-## James Koval
+# James Koval
 Portland, OR | James.Ross.Koval@gmail.com | +1 (424)-242-4133
 
 ### Skills
-* **Strong :** Javascript, HTML, CSS, React, GraphQL, PostgreSQL, Ruby on Rails, Python, Java, Typescript, C#, Bash, Linux, Docker, AWS, PHP, NodeJS, Agile, Scrum, Frontend, Backend, Fullstack
-* **Moderate :** C++, C, Go, Rust, .NET, Android, iOS, Scala, Swift, Hadoop, Electron, Redis, AI
+* Strong : Javascript, HTML, CSS, React, GraphQL, PostgreSQL, Ruby on Rails, Python, Java, Typescript, C#, Bash, Linux, Docker, AWS, PHP, NodeJS, Agile, Scrum, Frontend, Backend, Fullstack
+* Moderate : C++, C, Go, Rust, .NET, Android, iOS, Scala, Swift, Hadoop, Electron, Redis, AI
 
 ### Education | B.S. Computer Science Graduate, Principia College | 2011
 ### Experience
