@@ -8,7 +8,7 @@ James Koval - Portland, OR
 * **Moderate :** C++, C, Go, Rust, .NET, Android, iOS, Scala, Swift, Hadoop, Electron, AI
 
 ## Education
-B.S. Computer Science Graduate, Principia College | 2011
+* B.S. Computer Science Graduate, Principia College | 2011
 
 ## Experience
 ### Staff Fullstack Engineer, Orthini | 2025 - Present
