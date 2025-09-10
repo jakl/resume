@@ -1,11 +1,11 @@
 # James Koval
 Portland, OR | James.Ross.Koval@gmail.com | (424)-242-4133
 
-### Skills ordered by experience
+## Skills in order
 Javascript, HTML, CSS, ReactJS, PostgreSQL, Ruby on Rails, Typescript, GraphQL, Bash, Linux, Docker, AWS, NoSQL, AngularJS, Python, Java, Go, C#, PHP, NodeJS, C++, C, Rust, .NET, Android, iOS, Scala, Swift, Hadoop, Electron
 
 ### Education | B.S. Computer Science Graduate, Principia College | Sept 2007 - June 2011
-### Experience
+## Experience
 ##### Staff Fullstack Engineer, Orthini | March 2025 - Present
 * Startup environment, prototyping smart medical devices for physical therapy, using Arduino IDE
 * Working directly with founders on 3rd iteration of smart knee sleeve & insole
